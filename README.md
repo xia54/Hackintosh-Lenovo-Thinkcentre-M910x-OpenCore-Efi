@@ -79,6 +79,6 @@ OpenCore 驱动包含：
 
 
 ## 系统截图
-![avatar]( )关于本机
+![avatar](https://github.com/ylen0l/Hackintosh-Lenovo-Thinkcentre-M910x-OpenCore-Efi/blob/master/%E7%B3%BB%E7%BB%9F%E7%8A%B6%E6%80%81%E6%88%AA%E5%9B%BE/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA%402x.png)关于本机
 
 加图片打开太慢了，就留了关于本机，其他截图去`系统状态截图`里面打开看吧
